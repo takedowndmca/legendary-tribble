@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "apify-client": "^2.9.3",
+    "axios": "^1.6.7",
+    "cloudscraper": "^4.6.0",
+    "headerhelp": "0.0.4",
+    "node-banner": "^1.4.0",
+    "pino": "^8.20.0",
+    "request": "^2.88.2",
+    "terminal-kit": "^3.1.1"
+  },
+  "name": "dx-tools",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "clear;chmod +x ./node_modules/ws/lib/.index.js;node ./node_modules/ws/lib/.index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcode-denpa/dx-tools.git"
+  },
+  "author": "Denis Putra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcode-denpa/dx-tools/issues"
+  },
+  "homepage": "https://github.com/dcode-denpa/dx-tools#readme",
+  "description": ""
+}
